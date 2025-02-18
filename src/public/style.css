@@ -19,10 +19,13 @@ input {
     height: 2.5em;
     width: 38em;
     border-radius: 20px;
-    
+    border: 1px solid black;
+    margin-left: 350px;
+
 }
 .search-text {
     padding-left: 20px;
+    color: #AFADAD;
 }
 
 .header-section-content {
