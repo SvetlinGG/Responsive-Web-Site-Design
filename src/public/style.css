@@ -1,0 +1,25 @@
+:root {
+    font-family: 'Inter';
+}
+
+.header-section-content {
+    display: flex;
+    justify-content: space-around;
+}
+.nav-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ul {
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+p {
+    color: #1A89DB;
+    height: 1em;
+    font-size: 12px;
+}
+
