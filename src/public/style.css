@@ -10,16 +10,23 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    height: 60px;
 }
 ul {
-    border: 1px solid red;
     display: flex;
     justify-content: space-around;
     gap: 30px;
+    list-style: none;
 }
 p {
     color: #1A89DB;
     height: 1em;
     font-size: 12px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+    
 }
 
